@@ -1,0 +1,17 @@
+﻿PropertyTypeID,PropertyType
+PRT_001,Apartment
+PRT_002,Bed & Breakfast
+PRT_003,Boat
+PRT_004,Bungalow
+PRT_005,Cabin
+PRT_006,Camper/RV
+PRT_007,Chalet
+PRT_008,Condominium
+PRT_009,Dorm
+PRT_010,House
+PRT_011,Loft
+PRT_012,Other
+PRT_013,Tent
+PRT_014,Townhouse
+PRT_015,Treehouse
+PRT_016,Yurt

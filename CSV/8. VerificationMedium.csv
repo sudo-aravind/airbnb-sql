@@ -1,0 +1,19 @@
+﻿VerificationMediumID,VerificationMedium
+HV_001,email
+HV_002,phone
+HV_003,None
+HV_004,google
+HV_005,reviews
+HV_006, reviews
+HV_007, jumio
+HV_008, kba
+HV_009, linkedin
+HV_010, manual_offline
+HV_011, amex
+HV_012, weibo
+HV_013, sent_id
+HV_014, photographer
+HV_015, phone
+HV_016, facebook
+HV_017, google
+HV_018, manual_online

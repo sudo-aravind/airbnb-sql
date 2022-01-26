@@ -1,0 +1,4 @@
+﻿RoomTypeID,room_type
+RT_001,Entire home/apt
+RT_002,Private room
+RT_003,Shared room

@@ -1,0 +1,6 @@
+﻿host_response_timeID,host_response_time
+HRT_001,within a few hours
+HRT_002,within an hour
+HRT_003,within a day
+HRT_004,a few days or more
+HRT_005,N/A
